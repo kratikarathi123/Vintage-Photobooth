@@ -1,6 +1,6 @@
 # 📸 Vintage Photobooth
 
-![Vintage Photobooth Demo](./preview.gif)
+![Vintage Photobooth ScreenShot](photobooth.png)
 
 > **Step back in time. Create timeless memories.** ✨
 
@@ -52,6 +52,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+> 💫 “Creating memories, one frame at a time...”
+
+---
+
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -61,5 +65,3 @@ git clone https://github.com/kratikarathi123/Vintage-Photobooth.git
 cd Vintage-Photobooth
 npm install
 npm run dev
-
-> 💫 “Creating memories, one frame at a time...”
