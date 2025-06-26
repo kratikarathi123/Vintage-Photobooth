@@ -1,7 +1,5 @@
 # 📸 Vintage Photobooth
 
-![Vintage Photobooth ScreenShot](photobooth.png)
-
 > **Step back in time. Create timeless memories.** ✨
 
 A Korean-style digital photobooth where you can upload your photos, explore vintage aesthetics, and relive nostalgic vibes with a modern twist.
@@ -52,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 💫 “Creating memories, one frame at a time...”
+**💫 “Creating memories, one frame at a time...”**
 
 ---
 
