@@ -40,28 +40,3 @@ npm run dev
 
 ---
 
-## ✨ Upcoming Features
-
-- 📥 Photo download option  
-- 🎀 Cute sticker overlays  
-- 🎛️ Filters (sepia, soft pink, retro fade)  
-- 📸 Take photo from camera directly  
-
----
-
-## 👩‍🎨 Made By
-
-**Kratika Rathi**  
-💖 Developer & Designer who believes every photo deserves a frame.
-
-GitHub: [@kratikarathi123](https://github.com/kratikarathi123)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> 💫 “Creating memories, one frame at a time...”
