@@ -28,19 +28,6 @@ A Korean-style digital photobooth where you can upload your photos, explore vint
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/kratikarathi123/Vintage-Photobooth.git
-cd Vintage-Photobooth
-npm install
-npm run dev
-
-
----
-
 ## ✨ Upcoming Features
 
 - 📥 Photo download option  
@@ -64,5 +51,15 @@ GitHub: [@kratikarathi123](https://github.com/kratikarathi123)
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/kratikarathi123/Vintage-Photobooth.git
+cd Vintage-Photobooth
+npm install
+npm run dev
 
 > 💫 “Creating memories, one frame at a time...”
