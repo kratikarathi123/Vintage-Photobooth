@@ -44,12 +44,6 @@ GitHub: [@kratikarathi123](https://github.com/kratikarathi123)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **💫 “Creating memories, one frame at a time...”**
 
 ---
